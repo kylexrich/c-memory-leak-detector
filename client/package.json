@@ -1,0 +1,14 @@
+{
+  "name": "client",
+  "description": "VSCode part",
+  "engines": {
+    "vscode": "^1.63.0"
+  },
+  "dependencies": {
+    "vscode-languageclient": "^7.0.0"
+  },
+  "devDependencies": {
+    "@types/vscode": "^1.63.0",
+    "ts-loader": "^9.4.1"
+  }
+}
